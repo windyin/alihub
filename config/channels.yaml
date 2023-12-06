@@ -214,6 +214,45 @@ PhoenixInfoNewsChannel.hk:
   refresh: once
   recap: 7
   preview: 2
+  
+AlJazeeraEnglish.qa:
+  name:
+    - 半島電視台英語頻道
+  scraper:
+    mytvsuper: CJAZ
+  lang: tc
+  refresh: once
+  recap: 7
+  preview: 0 
+  
+Animax.hk:
+  name:
+    - Animax
+  scraper:
+    mytvsuper: CANI
+  lang: tc
+  refresh: once
+  recap: 7
+  preview: 0  
+  
+Jade.hk:
+  name:
+    - 翡翠台
+  scraper:
+    mytvsuper: J
+  lang: tc
+  refresh: once
+  recap: 7
+  preview: 0    
+
+os1.au:
+  name:
+    - Optus Sport 1
+  scraper:
+    xmltv: os1@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/eb927624210f27b4a7df3d000822d3f0c877d2ad/Optus/epg.xml  
+  refresh: once
+  recap: 5
+  preview: 0   
 
 DiscoveryChannelAsia.tw:
   name:

@@ -1,4 +1,5 @@
-import __xmltv
+from . import __xmltv
+epg/scraper/__xmltv.py
 from epg.model import Channel, Program
 from datetime import datetime, date, timezone
 

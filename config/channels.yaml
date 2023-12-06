@@ -202,8 +202,8 @@ PhoenixChineseChannel.hk:
     mytvsuper: PCC
   lang: tc
   refresh: once
-  recap: 7
-  preview: 2
+  recap: 1
+  preview: 5
 
 PhoenixInfoNewsChannel.hk:
   name:
@@ -212,8 +212,8 @@ PhoenixInfoNewsChannel.hk:
     mytvsuper: PIN
   lang: tc
   refresh: once
-  recap: 7
-  preview: 2
+  recap: 1
+  preview: 5
   
 AlJazeeraEnglish.qa:
   name:
@@ -251,8 +251,34 @@ os1.au:
   scraper:
     xmltv: os1@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/eb927624210f27b4a7df3d000822d3f0c877d2ad/Optus/epg.xml  
   refresh: once
-  recap: 1
-  preview: 5   
+  recap: 0
+  preview: 5  
+  
+os2.au:
+  name:
+    - Optus Sport 2
+  scraper:
+    xmltv: os2@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/eb927624210f27b4a7df3d000822d3f0c877d2ad/Optus/epg.xml  
+  refresh: once
+  recap: 0
+  preview: 5
+os3.au:
+  name:
+    - Optus Sport 3
+  scraper:
+    xmltv: os3@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/eb927624210f27b4a7df3d000822d3f0c877d2ad/Optus/epg.xml  
+  refresh: once
+  recap: 0
+  preview: 5
+  
+os4.au:
+  name:
+    - Optus Sport 4
+  scraper:
+    xmltv: os4@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/eb927624210f27b4a7df3d000822d3f0c877d2ad/Optus/epg.xml  
+  refresh: once
+  recap: 0
+  preview: 5  
 
 DiscoveryChannelAsia.tw:
   name:

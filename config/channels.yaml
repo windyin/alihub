@@ -222,8 +222,8 @@ AlJazeeraEnglish.qa:
     mytvsuper: CJAZ
   lang: tc
   refresh: once
-  recap: 7
-  preview: 0 
+  recap: 1
+  preview: 2 
   
 Animax.hk:
   name:
@@ -232,8 +232,8 @@ Animax.hk:
     mytvsuper: CANI
   lang: tc
   refresh: once
-  recap: 7
-  preview: 0  
+  recap: 1
+  preview: 2 
   
 Jade.hk:
   name:
@@ -242,8 +242,8 @@ Jade.hk:
     mytvsuper: J
   lang: tc
   refresh: once
-  recap: 7
-  preview: 0    
+  recap: 1
+  preview: 2    
 
 os1.au:
   name:
@@ -251,8 +251,8 @@ os1.au:
   scraper:
     xmltv: os1@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/eb927624210f27b4a7df3d000822d3f0c877d2ad/Optus/epg.xml  
   refresh: once
-  recap: 5
-  preview: 0   
+  recap: 1
+  preview: 5   
 
 DiscoveryChannelAsia.tw:
   name:

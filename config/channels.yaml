@@ -280,6 +280,33 @@ os4.au:
   recap: 0
   preview: 5  
 
+os5.au:
+  name:
+    - Optus Sport 5
+  scraper:
+    xmltv: os5@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5  
+
+os11.au:
+  name:
+    - Optus Sport 11
+  scraper:
+    xmltv: os11@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5  
+  
+os12.au:
+  name:
+    - Optus Sport 12
+  scraper:
+    xmltv: os12@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/4ca7b2214a73e96045768798264b8aa58b455b7c/Optus/epg.xml
+  refresh: today
+  recap: 0
+  preview: 5    
+
 DiscoveryChannelAsia.tw:
   name:
     - 探索频道亚洲

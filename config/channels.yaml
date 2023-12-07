@@ -289,6 +289,51 @@ os5.au:
   recap: 0
   preview: 5  
 
+os6.au:
+  name:
+    - Optus Sport 6
+  scraper:
+    xmltv: os6@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os7.au:
+  name:
+    - Optus Sport 7
+  scraper:
+    xmltv: os7@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os8.au:
+  name:
+    - Optus Sport 8
+  scraper:
+    xmltv: os8@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os9.au:
+  name:
+    - Optus Sport 9
+  scraper:
+    xmltv: os9@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os10.au:
+  name:
+    - Optus Sport 10
+  scraper:
+    xmltv: os10@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
 os11.au:
   name:
     - Optus Sport 11
@@ -296,16 +341,79 @@ os11.au:
     xmltv: os11@https://epg.ninja/epg/MISC/AUSoptus.xml
   refresh: today
   recap: 0
-  preview: 5  
-  
+  preview: 5
+
 os12.au:
   name:
     - Optus Sport 12
   scraper:
-    xmltv: os12@https://raw.githubusercontent.com/matthuisman/i.mjh.nz/4ca7b2214a73e96045768798264b8aa58b455b7c/Optus/epg.xml
+    xmltv: os12@https://epg.ninja/epg/MISC/AUSoptus.xml
   refresh: today
   recap: 0
-  preview: 5    
+  preview: 5
+
+os13.au:
+  name:
+    - Optus Sport 13
+  scraper:
+    xmltv: os13@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os14.au:
+  name:
+    - Optus Sport 14
+  scraper:
+    xmltv: os14@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os15.au:
+  name:
+    - Optus Sport 15
+  scraper:
+    xmltv: os15@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os16.au:
+  name:
+    - Optus Sport 16
+  scraper:
+    xmltv: os16@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os17.au:
+  name:
+    - Optus Sport 17
+  scraper:
+    xmltv: os17@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os18.au:
+  name:
+    - Optus Sport 18
+  scraper:
+    xmltv: os18@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5
+
+os19.au:
+  name:
+    - Optus Sport 19
+  scraper:
+    xmltv: os19@https://epg.ninja/epg/MISC/AUSoptus.xml
+  refresh: today
+  recap: 0
+  preview: 5   
 
 DiscoveryChannelAsia.tw:
   name:
